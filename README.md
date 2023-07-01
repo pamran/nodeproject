@@ -1,6 +1,8 @@
 # nodeproject
 This is a simple REST API build-in node.js
-10 various HTTP requests that will relate to:
+
+
+**10 various HTTP requests that will relate to:
 -
 getting information from the database about multiple objects
 -
@@ -16,3 +18,4 @@ three requests for getting information about multiple objects
 -two requests of deleting objects based on specific parameters
 -
 two requests of updating objects based on specific parameter
+**
